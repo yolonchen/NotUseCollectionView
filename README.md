@@ -1,0 +1,2 @@
+# NotUseCollectionView
+页面中所有的cell 都不一样的时候，可以使用这个collectionview
